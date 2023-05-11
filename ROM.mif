@@ -1,0 +1,85 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=65536;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	0      :   0011000000000111;
+	1      :   0011010100000010;
+	2      :   0000000110000000;
+	3      :   0000000110000001;
+	4      :   0000000110000010;
+	5      :   0000000110000011;
+	6      :   1001000110000000;
+	7      :   1010000110000000;
+	8      :   1011000111000000;
+	9      :   1100000110000000;
+	10     :   1101000100000001;
+	11     :   0001000100001000;
+	12     :   0010000100000001;
+	13     :   0100000100000111;
+	14     :   0101000000000011;
+	15     :   0110000100000001;
+	16     :   0000000110000000;
+	17     :   0111000000010010;
+	18     :   1000000000000000;
+	[19..47]  :   0000000000000000;
+	48     :   0111000000000011;
+	[49..50]  :   0000000110000000;
+	51     :   0011000000000111;
+	52     :   0011010100000010;
+	53     :   0110000100000001;
+	54     :   0000000000000000;
+	55     :   0000000110000000;
+	56     :   0000000110000001;
+	57     :   0000000110000010;
+	58     :   0000000110000011;
+	59     :   1001000110000000;
+	60     :   1010000110000000;
+	61     :   1011000111000000;
+	62     :   1100000110000000;
+	63     :   1101000100000001;
+	64     :   0001000100001000;
+	65     :   0010000100000001;
+	66     :   0100000100000111;
+	67     :   0101000000000011;
+	68     :   1000000100000000;
+	[69..79]  :   0000000000000000;
+	80     :   0011000000000111;
+	81     :   0011010100000010;
+	82     :   0000000110000000;
+	83     :   0000000110000001;
+	84     :   0000000110000010;
+	85     :   0000000110000011;
+	86     :   1001000110000000;
+	87     :   1010000110000000;
+	88     :   1011000111000000;
+	89     :   1100000110000000;
+	90     :   1101000100000001;
+	91     :   0001000100001000;
+	92     :   0010000100000001;
+	93     :   0100000100000111;
+	94     :   0101001000000011;
+	95     :   0110000100000001;
+	96     :   0000000110000000;
+	97     :   0111000000010010;
+	98     :   1000000000000000;
+	[99..65535]  :   0000000000000000;
+END;
